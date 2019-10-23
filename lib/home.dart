@@ -12,7 +12,7 @@ class _HomePageState extends State<HomePage> {
   List currencies;
   final List<MaterialColor> colors = [
     Colors.brown,
-    Colors.blue,
+    Colors.pink,
     Colors.green,
     Colors.red
   ];
