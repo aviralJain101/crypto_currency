@@ -18,9 +18,9 @@ class _HomePageState extends State<HomePage> {
   ];
 
   @override
-  void initState() async{
+  void initState(){
     super.initState;
-    currencies = await getCurrencies();
+    currencies =  getCurrencies();
   }
 
   Future<List> getCurrencies() async {
