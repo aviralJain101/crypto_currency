@@ -11,7 +11,7 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   List currencies;
   final List<MaterialColor> colors = [
-    Colors.brown,
+    Colors.pink,
     Colors.blue,
     Colors.green,
     Colors.red
