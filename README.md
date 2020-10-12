@@ -1,6 +1,7 @@
 # cryptocurrency
 
 A new Flutter application.
+An application for learning purpose
 
 ## Getting Started
 
